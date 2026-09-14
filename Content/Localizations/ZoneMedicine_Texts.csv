@@ -1,0 +1,9 @@
+Key,English,Ukrainian
+sid_items_ZoneMedicine_Anabiotic_name,Anabiotic,Анабіотик
+sid_items_ZoneMedicine_Anabiotic_description,A rare specialized drug developed from classified research into the effects of anomalous activity on the human body. It induces a brief state of controlled suppression of vital processes reducing tissue sensitivity to the destructive effects of an Emission. Due to the complexity of its production and the high risk of complications it is used only in exceptional circumstances.,Рідкісний препарат спеціального призначення створений на основі закритих досліджень впливу аномальної активності на людський організм. Викликає короткочасний стан контрольованого пригнічення життєвих процесів знижуючи чутливість тканин до руйнівних факторів викиду. Через складність виробництва та високий ризик ускладнень застосовується лише у виняткових випадках.
+sid_items_ZoneMedicine_Antidote_name,Antidote,Антидот
+sid_items_ZoneMedicine_Antidote_description,A specialized medicine that provides temporary chemical protection.,Спеціальний препарат що тимчасово підвищує захист від хімічних впливів.
+sid_items_ZoneMedicine_Radioprotector_name,Radioprotector,Радіопротектор
+sid_items_ZoneMedicine_Radioprotector_description,A specialized medicine that provides temporary radiation protection.,Спеціальний препарат що тимчасово підвищує радіаційний захист.
+ZoneMedicine_increase_chemical_protection_localization,Chemical protection,Хімічний захист
+ZoneMedicine_increase_radiation_protection_localization,Radiation protection,Радіаційний захист
